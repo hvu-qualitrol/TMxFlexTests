@@ -1,0 +1,6 @@
+AI,Pressure,Cal-1-Analog-In/ai0
+DO,Fan,Cal-1-Dig-Out/port0/line0
+DO,PushFan,Cal-1-Dig-Out/port0/line1
+DO,SV1,Cal-1-Dig-Out/port0/line2
+DO,GV1,Cal-1-Dig-Out/port0/line3
+DO,GV2,Cal-1-Dig-Out/port0/line4

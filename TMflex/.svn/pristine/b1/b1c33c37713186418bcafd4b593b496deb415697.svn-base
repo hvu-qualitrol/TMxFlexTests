@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<configuration>
+
+	<configSections>
+		<section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net" />
+		<section name="GasTanks" type="EnvComm.XmlConfigSectionHandler, EnvComm" />
+	</configSections>
+
+	<startup>
+		<supportedRuntime version="v2.0.50727"/>
+	</startup>
+
+	<appSettings>
+		<add key="COMPort" value="COM4" />
+		<add key="Baudrate" value="9600"/>
+		<add key="TotalFlow" value="2000"/>
+		<add key="SelectRatio" value="0.75"/>
+	</appSettings>
+
+	<GasTanks>
+		<GasTank>
+			<GasName>N2</GasName>
+			<PortNumber>1</PortNumber>
+			<ConcentrationPpm>1000000</ConcentrationPpm>
+			<KFactor>1.0</KFactor>
+		</GasTank>
+		<GasTank>
+			<GasName>C2H2</GasName>
+			<PortNumber>2</PortNumber>
+			<ConcentrationPpm>50</ConcentrationPpm>
+			<KFactor>1.0</KFactor>
+		</GasTank>
+		<GasTank>
+			<GasName>CH4</GasName>
+			<PortNumber>3</PortNumber>
+			<ConcentrationPpm>20000</ConcentrationPpm>
+			<KFactor>0.993</KFactor>
+		</GasTank>
+		<GasTank>
+			<GasName>C2H6</GasName>
+			<PortNumber>4</PortNumber>
+			<ConcentrationPpm>151</ConcentrationPpm>
+			<KFactor>1.0</KFactor>
+		</GasTank>
+		<GasTank>
+			<GasName>CH4</GasName>
+			<PortNumber>5</PortNumber>
+			<ConcentrationPpm>1504</ConcentrationPpm>
+			<KFactor>1.0</KFactor>
+		</GasTank>
+		<GasTank>
+			<GasName>C2H2</GasName>
+			<PortNumber>6</PortNumber>
+			<ConcentrationPpm>4506</ConcentrationPpm>
+			<KFactor>0.992</KFactor>
+		</GasTank>
+		<GasTank>
+			<GasName>C2H6</GasName>
+			<PortNumber>7</PortNumber>
+			<ConcentrationPpm>4019</ConcentrationPpm>
+			<KFactor>0.996</KFactor>
+		</GasTank>
+	</GasTanks>
+
+
+	<!--
+	****** This section stores the settings for logging
+	******************************************************************** -->
+	<log4net debug="false">
+		<appender name="RollingFileAppender" type="log4net.Appender.RollingFileAppender,log4net">
+			<param name="File" value="GasMixer.log" />
+			<param name="AppendToFile" value="true" />
+			<param name="MaximumFileSize" value="3MB" />
+			<param name="MaxSizeRollBackups" value="5" />
+			<param name="RollingStyle" value="Size" />
+			<layout type="log4net.Layout.PatternLayout">
+				<param name="Header"
+        value="^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Log Session Starts ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#xD;&#xA;" />
+				<param name="Footer"
+     value="vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv Log Session Ends   vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv&#xD;&#xA;" />
+				<!-- The following pattern is appropriate for production.  It avoids use of
+					reflection to dig into the caller's stack and doesn't try to get line
+					number information.  -->
+				<param name="ConversionPattern" value="%d %-5p [%t] %c %n    --&gt; %m%n%exception%n" />
+				<!-- The following pattern may be more useful for debugging but should not
+					be used in production because 
+						(1) it is extremely inefficient and 
+						(2) line number information is not necessarily available in release builds
+				<param name="ConversionPattern" value="%d{HH:mm:ss.fff} [%t] %C{1}.%M #%L: %m%n"/>
+				<param name="ConversionPattern" value="%d [%t] %-5p %c [%x] &lt;%X{auth}&gt; - %m%n" />
+				-->
+			</layout>
+		</appender>
+		<!-- Setup the root category, add the appenders and set the default priority -->
+		<root>
+			<priority value="INFO" />
+			<appender-ref ref="RollingFileAppender" />
+		</root>
+	</log4net>
+</configuration>

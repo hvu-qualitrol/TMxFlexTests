@@ -1,0 +1,32 @@
+<Cluster>
+<Name>Control Config</Name>
+<NumElts>7</NumElts>
+<U16>
+<Name>Settling Time</Name>
+<Val>5</Val>
+</U16>
+<DBL>
+<Name>Setpoint</Name>
+<Val>40.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Max PWM</Name>
+<Val>60.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Min PWM</Name>
+<Val>40.00000000000000</Val>
+</DBL>
+<U8>
+<Name>Kp</Name>
+<Val>200</Val>
+</U8>
+<U8>
+<Name>Ki</Name>
+<Val>1</Val>
+</U8>
+<U8>
+<Name>Kd</Name>
+<Val>0</Val>
+</U8>
+</Cluster>

@@ -1,0 +1,6 @@
+AI,Pressure,PAS-Calibration-1Mod5/ai0
+DO,Fan,PAS-Calibration-1Mod4/port0/line0
+DO,PushFan,PAS-Calibration-1Mod4/port0/line1
+DO,SV1,PAS-Calibration-1Mod4/port0/line2
+DO,GV1,PAS-Calibration-1Mod4/port0/line3
+DO,GV2,PAS-Calibration-1Mod4/port0/line4

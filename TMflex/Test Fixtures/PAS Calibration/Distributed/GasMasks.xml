@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GasMasks>
+	<!--
+	Filters are:
+	9	8	7	6	5	4	3	2	1	0
+	H20	CO2	CO	HC5	HC4	HC3	HC2	HC1	C2H2 -
+	It is assumed that the H2O filter is used for all gases
+	-->
+	<maskC2H2>2</maskC2H2>
+	<maskC2H4>56</maskC2H4>
+	<maskC2H6>112</maskC2H6>
+	<maskCH4>56</maskCH4>
+	<maskCO2>128</maskCO2>
+	<maskCO>256</maskCO>
+	<maskH2O>512</maskH2O>
+</GasMasks>

@@ -1,0 +1,20 @@
+<GXML_Root>
+  <Cylinder mems='4'>
+    <Index type='U16'>0</Index>
+    <Name type='String'>Regular</Name>
+    <Main_Gas_Info mems='2'>
+      <Main_Gas type='String'>C2H2</Main_Gas>
+      <Cylinder_PPM type='DBL'>9000</Cylinder_PPM>
+    </Main_Gas_Info>
+    <Other_Gases dim='[2]' type='Cluster'>
+      <Other_Gas_Info mems='2'>
+        <Other_Gas type='String'>CO</Other_Gas>
+        <Cylinder_PPM type='DBL'>200000</Cylinder_PPM>
+      </Other_Gas_Info>
+      <Other_Gas_Info mems='2'>
+        <Other_Gas type='String'>CO2</Other_Gas>
+        <Cylinder_PPM type='DBL'>30000</Cylinder_PPM>
+      </Other_Gas_Info>
+    </Other_Gases>
+  </Cylinder>
+</GXML_Root>

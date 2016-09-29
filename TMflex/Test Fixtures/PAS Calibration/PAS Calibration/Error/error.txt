@@ -1,0 +1,168 @@
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-01-31 22:38:11                                                                                                                                                                                                                                             
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-01-31 22:42:21                                                                                                                                                                                                                                             
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-01-31 22:59:52                                                                                                                                                                                                                                             
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-02-05 22:39:46                                                                                                                                                                                                                                             
+Main	Error: Control Pressure Regulator.vi<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8Mod4
+
+<B>Task Name: </B>REG	2016-02-09 18:00:15                                                                                                                                                                                                                                                                                                                                                                         
+DAQ	Property Node in UI Handler.lvclass:Write to Message Log.vi->DAQ.vi	2016-02-16 18:20:23                                                                                                                                                                                                                                                                                                                                                                                                                        
+DAQ	XNET Create Session (Frame Output Stream).vi:7500001	2016-02-16 18:20:30                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-02-17 11:25:52                                                                                                                                                                                                                                             
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:28:12                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:29:41                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:30:26                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:02                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:05                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:07                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:10                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:13                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:16                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:19                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:22                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:33:55                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:34:55                                                                                                                                                                                                                                               
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.35.68
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-03-03 15:35:06                                                                                                                                                                                                                                               
+DAQ	XNET Create Session (Frame Output Stream).vi:7500002	2016-03-07 14:05:03                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	Initialize Hardware.vi<append>
+<B>Task Name: </B>REG_PAS	2016-03-07 14:05:20                                                                                                                                                                                                                                                                                                                                                                                                                                   
+DAQ	XNET Create Session (Frame Output Stream).vi:7500002	2016-03-07 14:05:23                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	Initialize Hardware.vi<append>
+<B>Task Name: </B>REG_PAS	2016-03-07 14:06:15                                                                                                                                                                                                                                                                                                                                                                                                                                   
+DAQ	XNET Create Session (Frame Output Stream).vi:7500002	2016-03-07 14:06:18                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	Initialize Hardware.vi<append>
+<B>Task Name: </B>Vacuum_PAS	2016-03-07 14:08:51                                                                                                                                                                                                                                                                                                                                                                                                                                
+DAQ	XNET Create Session (Frame Output Stream).vi:7500002	2016-03-07 14:08:55                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	Read Pressure NI-DAQ.vi<append>
+<B>Task Name: </B>Pressure_PAS	2016-03-07 14:10:53                                                                                                                                                                                                                                                                                                                                                                                                                             
+DAQ	XNET Create Session (Frame Output Stream).vi:7500002	2016-03-07 14:10:59                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	Property Node in UI Handler.lvclass:Write to Message Log.vi->DAQ.vi	2016-03-07 14:12:03                                                                                                                                                                                                                                                                                                                                                                                                                        
+DAQ	Read Pressure NI-DAQ.vi<append>
+<B>Task Name: </B>Pressure_PAS	2016-03-07 14:12:15                                                                                                                                                                                                                                                                                                                                                                                                                             
+DAQ	XNET Create Session (Frame Output Stream).vi:7500002	2016-03-07 14:12:21                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	(Peltier Board Error -  Read Temperature- Error Code  E7) Peltier.lvclass:Read Temperature.vi in DAQ.vi->PAS Calibration.vi
+	2016-03-07 14:18:03                                                                                                                                                                                                                                                                                                                                                              
+Main	Error: (PAS Board Error -  Set Chopper Wheel Stepper Motor RPM - Error Code - F6) PAS.lvclass:Set Chopper RPM.vi in PAS.lvclass:Motor Ramp Test.vi->PAS Calibration.vi
+	2016-03-07 14:21:54                                                                                                                                                                                                                                                                                                                  
+Main	Error: (Motor Failed To Ramp) PAS.lvclass:Motor Ramp Test.vi in PAS Calibration.vi
+	2016-03-07 14:25:48                                                                                                                                                                                                                                                                                                                                                                                                      
+Main	Error: (Motor Failed To Ramp) PAS.lvclass:Motor Ramp Test.vi in PAS Calibration.vi
+	2016-03-07 15:51:06                                                                                                                                                                                                                                                                                                                                                                                                      
+Main	Error: (Motor Failed To Ramp) PAS.lvclass:Motor Ramp Test.vi in PAS Calibration.vi
+	2016-03-07 15:55:12                                                                                                                                                                                                                                                                                                                                                                                                      
+DAQ	(PAS Board Error - PAS Board unable to reply to request.) PAS.lvclass:Send CAN Message.vi in PAS.lvclass:Read Board Status.vi->DAQ.vi->PAS Calibration.vi
+	2016-03-07 17:00:13                                                                                                                                                                                                                                                                                                                                
+DAQ	XNET Write (Frame CAN).vi:3880001	2016-03-07 17:10:31                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+DAQ	XNET Write (Frame CAN).vi:3880001	2016-03-07 17:10:49                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+DAQ	XNET Create Session (Frame Output Stream).vi:7500002	2016-03-07 17:10:58                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	(Peltier Board Error -  Read Setpoint - Error Code  E4) Peltier.lvclass:Write PID Coefficients.vi in Control.vi->PAS Calibration.vi
+	2016-03-07 17:12:12                                                                                                                                                                                                                                                                                                                                                      
+DAQ	(Peltier Board Error -  Read Setpoint - Error Code  E4) Peltier.lvclass:Write PID Coefficients.vi in Control.vi->PAS Calibration.vi
+	2016-03-07 17:14:32                                                                                                                                                                                                                                                                                                                                                      
+DAQ	(Peltier Board Error -  Read Setpoint - Error Code  E4) Peltier.lvclass:Write Set Point Sensor Number.vi in Control.vi->PAS Calibration.vi
+	2016-03-07 17:24:08                                                                                                                                                                                                                                                                                                                                               
+DAQ	(Peltier Board Error -  Read Setpoint - Error Code  E7) Peltier.lvclass:Write Set Point Sensor Number.vi in Control.vi->PAS Calibration.vi
+	2016-03-07 17:25:29                                                                                                                                                                                                                                                                                                                                               
+DAQ	(Peltier Board Error -  Read Setpoint - Error Code  E4) Peltier.lvclass:Write Setpoint.vi in Control.vi->PAS Calibration.vi
+	2016-03-07 17:26:36                                                                                                                                                                                                                                                                                                                                                              
+DAQ	(Peltier Board Error - Controller Error - E7) Peltier.lvclass:Set Temperature Controller.vi in Control.vi->PAS Calibration.vi
+	2016-03-07 17:27:06                                                                                                                                                                                                                                                                                                                                                            
+Main	Error: (PAS Board Error -  Read ADC Command Failed - Error Code -  E9) PAS.lvclass:Read ADC.vi in PAS Calibration.vi
+	2016-03-15 21:50:20                                                                                                                                                                                                                                                                                                                                                                    
+Main	Error: (PAS Board Error -  Read ADC Command Failed - Error Code -  E9) PAS.lvclass:Read ADC.vi in PAS.lvclass:Wait ADC Measurement.vi->PAS Calibration.vi
+	2016-03-15 21:55:33                                                                                                                                                                                                                                                                                                                               

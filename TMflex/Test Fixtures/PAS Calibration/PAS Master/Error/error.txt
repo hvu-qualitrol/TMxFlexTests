@@ -1,0 +1,86 @@
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-01-31 22:38:11                                                                                                                                                                                                                                             
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-01-31 22:42:21                                                                                                                                                                                                                                             
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-01-31 22:59:52                                                                                                                                                                                                                                             
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-02-05 22:39:46                                                                                                                                                                                                                                             
+Main	Error: Control Pressure Regulator.vi<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8Mod4
+
+<B>Task Name: </B>REG	2016-02-09 18:00:15                                                                                                                                                                                                                                                                                                                                                                         
+DAQ	Property Node in UI Handler.lvclass:Write to Message Log.vi->DAQ.vi	2016-02-16 18:20:23                                                                                                                                                                                                                                                                                                                                                                                                                        
+DAQ	XNET Create Session (Frame Output Stream).vi:7500001	2016-02-16 18:20:30                                                                                                                                                                                                                                                                                                                                                                                                                                       
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1A2B7A8
+<B>Property: </B>TCPIP.EthernetIP
+<B>Corresponding Value: </B>169.254.133.251
+<B>Property: </B>TCPIP.Hostname
+<B>Corresponding Value: </B>cDAQ9188-1A2B7A8	2016-02-17 11:25:52                                                                                                                                                                                                                                             
+DAQ	XNET Create Session (Frame Output Stream).vi:7500001	2016-03-07 13:21:27                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Main	Error: Invoke Node System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.ArgumentException: Illegal flow specified <append><b>System.ArgumentException</b> in Environics.lvclass:Set Total Flow Rate.vi->Master.vi	2016-04-11 15:13:47                                                                                                                                                                                              
+Main	Error: Invoke Node System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.ArgumentException: Illegal flow specified <append><b>System.ArgumentException</b> in Environics.lvclass:Set Total Flow Rate.vi->Master.vi	2016-04-11 15:16:17                                                                                                                                                                                              
+Main	Error: Invoke Node System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.ArgumentException: Illegal flow specified <append><b>System.ArgumentException</b> in Environics.lvclass:Set Total Flow Rate.vi->Master.vi	2016-04-11 15:28:13                                                                                                                                                                                              
+Main	Error: Error in confguration. Please ensure the selected gas is actually available on the Environics 	2016-04-11 15:35:02                                                                                                                                                                                                                                                                                                                                                                                     
+Main	Error: Environics Error - Property Node (Arg :1) Error accessing static property EnvComm.Mixer.Instance, (System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.Mixer' threw an exception.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.MixerSetup' threw an exception.
+	Inner Exception: System.NullReferenceException: O
+Main	Error: Environics Error - Property Node (Arg :1) Error accessing static property EnvComm.Mixer.Instance, (System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.Mixer' threw an exception.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.MixerSetup' threw an exception.
+	Inner Exception: System.NullReferenceException: O
+Main	Error: Invoke Node System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.ApplicationException: This gas is not currently configured. Mount this bottle and enter it in the configuration. <append><b>System.ApplicationException</b> in Environics.lvclass:Set Mix.vi->Master.vi	2016-04-11 18:50:28                                                                                                                                
+Main	Error: Environics Error - Property Node (Arg :1) Error accessing static property EnvComm.Mixer.Instance, (System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.Mixer' threw an exception.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.MixerSetup' threw an exception.
+	Inner Exception: System.Configuration.Configurati
+Main	Error: Environics Error - Property Node (Arg :1) Error accessing static property EnvComm.Mixer.Instance, (System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.Mixer' threw an exception.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.MixerSetup' threw an exception.
+	Inner Exception: System.Configuration.Configurati
+Main	Error: Environics Error - Property Node (Arg :1) Error accessing static property EnvComm.Mixer.Instance, (System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.Mixer' threw an exception.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.MixerSetup' threw an exception.
+	Inner Exception: System.Configuration.Configurati
+Main	Error: Environics Error - Property Node (Arg :1) Error accessing static property EnvComm.Mixer.Instance, (System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.Mixer' threw an exception.
+	Inner Exception: System.TypeInitializationException: The type initializer for 'EnvComm.MixerSetup' threw an exception.
+	Inner Exception: System.Configuration.Configurati
+Main	Error: Invoke Node System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.ApplicationException: This concentration is higher than can be reached from current configuration. <append><b>System.ApplicationException</b> in Environics.lvclass:Set Mix.vi->Master.vi	2016-04-14 18:35:07                                                                                                                                              
+Main	Error: Invoke Node System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.ApplicationException: This concentration is higher than can be reached from current configuration. <append><b>System.ApplicationException</b> in Environics.lvclass:Set Mix.vi->Master.vi	2016-04-14 18:35:39                                                                                                                                              
+Main	Error: Invoke Node System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+	Inner Exception: System.ApplicationException: This concentration is higher than can be reached from current configuration. <append><b>System.ApplicationException</b> in Environics.lvclass:Set Mix.vi->Master.vi	2016-04-14 18:37:02                                                                                                                                              
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1AEF77B	2016-04-25 15:08:24                                                                                                                                                                                                                                                                                                                                                                                                        
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1AEF77B	2016-04-25 15:08:31                                                                                                                                                                                                                                                                                                                                                                                                        
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1AEF77B	2016-04-25 15:08:33                                                                                                                                                                                                                                                                                                                                                                                                        
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1AEF77B	2016-04-25 15:08:35                                                                                                                                                                                                                                                                                                                                                                                                        
+DAQ	DAQmx Self-Test Device.vi:2910001<append>
+<B>Device Specified: </B>cDAQ9188-1AEF77B	2016-04-25 15:08:53                                                                                                                                                                                                                                                                                                                                                                                                        

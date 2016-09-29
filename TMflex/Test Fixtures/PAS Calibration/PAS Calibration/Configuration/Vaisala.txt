@@ -1,0 +1,25 @@
+<Cluster>
+<Name>Vaisala Config</Name>
+<NumElts>4</NumElts>
+<String>
+<Name>COM Port</Name>
+<Val>COM3</Val>
+</String>
+<U32>
+<Name>Baud Rate</Name>
+<Val>4800</Val>
+</U32>
+<U16>
+<Name>Data Bits</Name>
+<Val>7</Val>
+</U16>
+<EW>
+<Name>Parity</Name>
+<Choice>None</Choice>
+<Choice>Odd</Choice>
+<Choice>Even</Choice>
+<Choice>Mark</Choice>
+<Choice>Space</Choice>
+<Val>2</Val>
+</EW>
+</Cluster>

@@ -1,0 +1,16 @@
+<Cluster>
+<Name>User Config</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Password</Name>
+<Val>admin</Val>
+</String>
+<String>
+<Name>cDAQ Name</Name>
+<Val>cDAQ9188-1AEF77B</Val>
+</String>
+<String>
+<Name>CAN Interface</Name>
+<Val>CAN1</Val>
+</String>
+</Cluster>

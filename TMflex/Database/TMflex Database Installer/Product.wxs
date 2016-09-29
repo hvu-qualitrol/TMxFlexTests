@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="TMflex_Database_Installer" Language="1033" Version="1.0.0.0" Manufacturer="Microsoft" UpgradeCode="0B1D2C64-25CD-4D13-B538-6ED6781C182F">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="TMflex_Database_Installer" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="TMflex_Database_Installer" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+      <Component Id="DatabaseLib">
+        <File Source ="$(var.ProjectDir)..\..\DatabaseLib\bin\Debug\DatabaseLib.dll" />                
+      </Component>
+
+      <Component Id="FileLib">
+        <File Source ="$(var.ProjectDir)..\..\FileLib\bin\Debug\FileLib.dll" />
+      </Component>
+      
+			<Component Id="Database_Service">
+        <ServiceInstall Id="TMflexDatabaseService" Account="LocalSystem" Start="auto" Description ="TMflex Database Service" Name="TMflexDatabaseService" Type="ownProcess" ErrorControl ="normal" />
+				<!-- TODO: Insert files, registry keys, and other resources here. -->
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

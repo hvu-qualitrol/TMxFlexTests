@@ -1,0 +1,2 @@
+[DatabaseInfo]
+ConnectionString = "Description=OCP Database;DRIVER=SQL Server;SERVER=QPDXSQL83;UID=SQLOCP.PDX;PWD=M4@+BV5$^1;APP=National Instruments LabVIEW;WSID=QPDX-42VVSSY1"

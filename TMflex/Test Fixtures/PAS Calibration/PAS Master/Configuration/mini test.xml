@@ -1,0 +1,72 @@
+<Cluster>
+<Name>Master Config</Name>
+<NumElts>5</NumElts>
+<DBL>
+<Name>Conc Tolerance</Name>
+<Val>5.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Gas Stable Time</Name>
+<Val>60</Val>
+</U16>
+<SGL>
+<Name>Initial Flow Rate</Name>
+<Val>3000.00000</Val>
+</SGL>
+<SGL>
+<Name>Max Flow Rate</Name>
+<Val>6000.00000</Val>
+</SGL>
+<Array>
+<Name>Gas Sequence</Name>
+<Dimsize>3</Dimsize>
+<Cluster>
+<Name>Gas Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Gas</Name>
+<Val>CH4</Val>
+</String>
+<DBL>
+<Name>PPM</Name>
+<Val>2000.00000000000000</Val>
+</DBL>
+<U32>
+<Name>Time</Name>
+<Val>1000</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Gas Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Gas</Name>
+<Val>C2H2</Val>
+</String>
+<DBL>
+<Name>PPM</Name>
+<Val>4505.99999999999999</Val>
+</DBL>
+<U32>
+<Name>Time</Name>
+<Val>500</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Gas Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Gas</Name>
+<Val>C2H2</Val>
+</String>
+<DBL>
+<Name>PPM</Name>
+<Val>1000.00000000000000</Val>
+</DBL>
+<U32>
+<Name>Time</Name>
+<Val>500</Val>
+</U32>
+</Cluster>
+</Array>
+</Cluster>

@@ -1,0 +1,8 @@
+Channel Index,Channel Name,Channel Units,Gain,Offset,Source
+0,Test Pressure,PSI,9336.80515625,-51.550995625,NI-DAQ
+1,PAS Temperature,C,1,0,CAN-PAS
+2,Peltier TS2 Temperature,C,1,0,CAN-PAS
+3,Leak Rate,PSI,1,0,Virtual
+4,Unused,N/A,0,0,N/A
+5,Unused,N/A,0,0,N/A
+

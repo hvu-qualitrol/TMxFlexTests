@@ -1,0 +1,148 @@
+<Cluster>
+<Name>Test Config</Name>
+<NumElts>12</NumElts>
+<U16>
+<Name>Chopper RPM</Name>
+<Val>660</Val>
+</U16>
+<U8>
+<Name>IR Power</Name>
+<Val>2</Val>
+</U8>
+<DBL>
+<Name>Conc Tolerance</Name>
+<Val>5.00000000000000</Val>
+</DBL>
+<U16>
+<Name>Gas Stable Time</Name>
+<Val>10</Val>
+</U16>
+<U16>
+<Name>A-D Settle</Name>
+<Val>1000</Val>
+</U16>
+<U16>
+<Name>Samples</Name>
+<Val>20</Val>
+</U16>
+<U16>
+<Name>Filter Time</Name>
+<Val>10</Val>
+</U16>
+<Array>
+<Name>Gas Mixtures</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name>Gas Mixture</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Gas</Name>
+<Val>C2H2</Val>
+</String>
+<DBL>
+<Name>PPM</Name>
+<Val>0.51000000000000</Val>
+</DBL>
+<U16>
+<Name>ADC Gains</Name>
+<Val>0</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Gas Mixture</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Gas</Name>
+<Val>C2H2</Val>
+</String>
+<DBL>
+<Name>PPM</Name>
+<Val>0.50000000000000</Val>
+</DBL>
+<U16>
+<Name>ADC Gains</Name>
+<Val>0</Val>
+</U16>
+</Cluster>
+</Array>
+<Array>
+<Name>Filter Sequences</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name>Filter Sequence </Name>
+<NumElts>2</NumElts>
+<U8>
+<Name>Filter</Name>
+<Val>1</Val>
+</U8>
+<DBL>
+<Name>Phase</Name>
+<Val>65.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Filter Sequence </Name>
+<NumElts>2</NumElts>
+<U8>
+<Name>Filter</Name>
+<Val>2</Val>
+</U8>
+<DBL>
+<Name>Phase</Name>
+<Val>65.00000000000000</Val>
+</DBL>
+</Cluster>
+</Array>
+<Cluster>
+<Name>Functional Test</Name>
+<NumElts>10</NumElts>
+<DBL>
+<Name>Mic Test ON ADC Max</Name>
+<Val>1000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Mic Test ON ADC Min</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Mic Test OFF ADC Max</Name>
+<Val>799999.99999999999900</Val>
+</DBL>
+<DBL>
+<Name>Mic Test OFF ADC Min</Name>
+<Val>299999.99999999999900</Val>
+</DBL>
+<DBL>
+<Name>Mic Test IC ADC Max</Name>
+<Val>10000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Mic Test IC ADC Min</Name>
+<Val>4989.99999999999999</Val>
+</DBL>
+<DBL>
+<Name>IR Emitter ON ADC Max</Name>
+<Val>6000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>IR Emitter ON ADC Min</Name>
+<Val>1000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>IR Emitter OFF ADC Max</Name>
+<Val>6000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>IR Emitter OFF ADC Min</Name>
+<Val>1000000.00000000000000</Val>
+</DBL>
+</Cluster>
+<SGL>
+<Name>Initial Flow Rate</Name>
+<Val>3000.00000</Val>
+</SGL>
+<SGL>
+<Name>Max Flow Rate</Name>
+<Val>6000.00000</Val>
+</SGL>
+</Cluster>
